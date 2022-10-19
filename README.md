@@ -71,7 +71,7 @@
 
 <b>Installation:</b>
 
-	# git clone "https://github.com/13loodH4t/pynetcm.git"
+	# git clone "https://github.com/vP3nguin/pynetcm.git"
 	# cd pynetcm
 	# sudo python setup.py build
 	# sudo python setup.py install
